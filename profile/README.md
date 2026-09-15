@@ -22,3 +22,7 @@ The same files are served for download from bestai.study (prefer those links for
 - https://bestai.study/downloads/install-opencode-ubuntu24.sh
 - https://bestai.study/downloads/install-codex-ubuntu24.sh
 - https://bestai.study/downloads/install-claude-code-ubuntu24.sh
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=bestai-study)
